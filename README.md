@@ -10,3 +10,5 @@ Here are the list of modules used in this project:
 * 3 analog voltage sensors to measure each phase potential difference.
 * SIM800L module for SMS functionality.
 * A button to toggle motor state (on/off).
+
+Fork all necessary Arduino libraries for this project from (https://github.com/yourtechmafia/Awesome-Arduino-Libraries).
