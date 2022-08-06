@@ -1,4 +1,4 @@
-#include "ACS712.h" //  ACS712 library
+#include "ACS712.h" //  ACS712 current sensor library
 #include <LiquidCrystal.h>  //  LCD module library & config
 #include <SoftwareSerial.h> //  Software serial library for SIM800L communication on Arduino Uno
 //  I/O Pins
